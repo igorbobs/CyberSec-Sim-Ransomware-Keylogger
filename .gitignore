@@ -1,0 +1,20 @@
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de log e chaves gerados (NÃO ENVIE DADOS SENSÍVEIS!)
+*.log
+*.key
+key_log.txt
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/

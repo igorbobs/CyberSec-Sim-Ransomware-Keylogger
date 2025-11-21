@@ -1,0 +1,2 @@
+Este é um arquivo de teste para a simulação de ransomware.
+Ele deve ser criptografado e depois descriptografado.
